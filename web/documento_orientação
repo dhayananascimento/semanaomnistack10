@@ -1,0 +1,14 @@
+Comandos: 
+yarn create react-app <nome>
+yarn start // iniciar na porta 3000 padrao (resolveu o erro: echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p)
+yarn add axios
+
+Conceitos:
+Componente -> bloco isolado de html, css e js que nao interfere no restante da aplicação(contem funcao que retorna esses conteudos) sempre criar um novo componente quando estiver algo repetitivo. Pimeira letra sempre maiuscula.
+Propriedade -> Informações que um componente PAI passa para o componte FILHO
+Estado -> Informações mantida pelo componente (lembrar: imutabilidade)
+
+
+
+
+

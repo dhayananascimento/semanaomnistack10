@@ -1,0 +1,42 @@
+  
+  Metodos http: GET POST PUT DELETE
+
+  Comandos:
+    yarn add express -- yarn add nodemon -D
+    node index.js -- yarn nodemon index.js 
+    yarn add mongoose
+    yarn add axios
+    yar add cors
+    pkill node
+    yan add socket.io
+
+  Instalações:
+    yarn -- npm --  node -- insomnia -- MongoDB Compass
+
+  clusters - desenvolvimento
+
+  Tecnologias usadas:
+    mongoDB atlas -- visual studio code --
+
+  Tipos de pametros:
+    Query Params: request.query (Filtros, ordenação, paginação,...)
+    Route Params: request.params (Identificar um recurso na alteração ou remoção)
+    Body: request.body (Dados para criação ou alteração de um registro)
+
+  MongoDB (não relacional)
+  no mongo, criar cluster, definir senha, definir quais computadores tem acesso, connect cluster 
+
+  Await indica que deve esperar o comando ser executado
+
+Conceitos:
+index: usado pra listas
+show: pra mostrar um unico elemento
+store: criar
+update: alterar
+destroy: deletar
+
+dry - dont repeat yourself
+
+pesquisar por  "mongo operators"
+
+mongodb+srv://desenvolvimento:<password>@cluster0-pxffk.mongodb.net/test
